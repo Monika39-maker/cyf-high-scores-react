@@ -5,7 +5,7 @@ import './App.css';
 
 
 function PlayerScore({scoreData}) {
-  console.log(scoreData)
+  
     return (
       <>
         
