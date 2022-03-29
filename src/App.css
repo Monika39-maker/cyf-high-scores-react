@@ -14,7 +14,7 @@ table {
   align-items: center;
   justify-content: center;
   background: #4E95FC;
-  width: 100%;
+  width: 50vw;
   margin-left: auto;
   margin-right: auto;
   height: 50px;
@@ -24,7 +24,7 @@ table {
   border: 1px solid black;
 }
 .tbody {
-  width: 100%;
+  width: 50vw;
   background: red;
 }
 
