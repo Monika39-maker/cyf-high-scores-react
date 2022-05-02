@@ -28,3 +28,16 @@ table {
   background: red;
 }
 
+button {
+  background-color: #4E95FC;
+  cursor: pointer;
+  height: 30px;
+  font: 1em sans-serif;
+  transition: all ease-in-out 0.5ms;
+
+}
+button:hover {
+  transform: scale(1.1);
+  background-color: #1e69d3;
+}
+

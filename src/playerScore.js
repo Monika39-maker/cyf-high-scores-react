@@ -5,13 +5,13 @@ import './App.css';
 
 
 function PlayerScore({scoreData}) {
-  
+    
     return (
       <>
         
-          {scoreData.map(country => {
+          {scoreData.map((country, i) => {
             return (
-              <Table key={country.id}>
+              <Table>
               <thead>
                 <tr className='table-heading'><th>HIGH SCORES: {country.name}</th></tr>
                 <tr>

@@ -29,6 +29,10 @@ let allCountryScores = [
       name: "Bangladesh", 
       scores: [ {n: "rahman", s: 700200}, {n: "rayhan", s: 18238123}, {n: "ali", s: 5400000} ]
     },
+    {
+      name: "CodeYourFutureTrainees", 
+      scores: [ {n: "Matilda", s: 7002000}, {n: "Monika", s: 186123}, {n: "Dona", s: 540000} ]
+    },
 ];
   
 export default allCountryScores;
